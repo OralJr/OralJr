@@ -1,6 +1,6 @@
 <h1>Hey, I'm Oral! An <a href="https://linkedin.com/in/oraljr">IT Professional</a>.
 
-<h2>💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects!!:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/oraljr/osticket-prereqs)
