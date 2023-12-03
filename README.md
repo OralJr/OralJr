@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/oraljr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/oraljr/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine](https://github.com/oraljr/vm-setup)
   - [Configuring Active Directory within Azure VMs](https://github.com/oraljr/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/oraljr/azure-network-protocols)
 
