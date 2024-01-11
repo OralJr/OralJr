@@ -1,4 +1,4 @@
-<h1>Hey there! I'm Oral! An <a href="https://linkedin.com/in/oraljr">IT Professional</a>.
+<h1>Hey there! I'm Oral! An <a href="https://linkedin.com/in/oraljr">IT & Cybersecurity Professional</a>.
 
 <h2>💻 Information Technology Projects:</h2>
 
